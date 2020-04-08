@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WRAV101_Pracs
+namespace Prac1
 {
     class Prac1
     {
