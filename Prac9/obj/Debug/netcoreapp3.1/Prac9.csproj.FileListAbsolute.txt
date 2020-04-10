@@ -1,0 +1,13 @@
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\Prac9\obj\Debug\netcoreapp3.1\Prac9.csprojAssemblyReference.cache
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\Prac9\obj\Debug\netcoreapp3.1\Prac9.csproj.CoreCompileInputs.cache
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\Prac9\obj\Debug\netcoreapp3.1\Prac9.AssemblyInfoInputs.cache
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\Prac9\obj\Debug\netcoreapp3.1\Prac9.AssemblyInfo.cs
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\Prac9\bin\Debug\netcoreapp3.1\Prac9.exe
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\Prac9\bin\Debug\netcoreapp3.1\Prac9.deps.json
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\Prac9\bin\Debug\netcoreapp3.1\Prac9.runtimeconfig.json
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\Prac9\bin\Debug\netcoreapp3.1\Prac9.runtimeconfig.dev.json
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\Prac9\bin\Debug\netcoreapp3.1\Prac9.dll
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\Prac9\bin\Debug\netcoreapp3.1\Prac9.pdb
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\Prac9\obj\Debug\netcoreapp3.1\Prac9.dll
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\Prac9\obj\Debug\netcoreapp3.1\Prac9.pdb
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\Prac9\obj\Debug\netcoreapp3.1\Prac9.genruntimeconfig.cache
