@@ -1,0 +1,13 @@
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week2Tut\Q1\bin\Debug\netcoreapp3.1\Q1.exe
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week2Tut\Q1\bin\Debug\netcoreapp3.1\Q1.deps.json
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week2Tut\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.json
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week2Tut\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.dev.json
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week2Tut\Q1\bin\Debug\netcoreapp3.1\Q1.dll
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week2Tut\Q1\bin\Debug\netcoreapp3.1\Q1.pdb
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week2Tut\Q1\obj\Debug\netcoreapp3.1\Q1.csprojAssemblyReference.cache
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week2Tut\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.CoreCompileInputs.cache
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week2Tut\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfoInputs.cache
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week2Tut\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfo.cs
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week2Tut\Q1\obj\Debug\netcoreapp3.1\Q1.dll
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week2Tut\Q1\obj\Debug\netcoreapp3.1\Q1.pdb
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week2Tut\Q1\obj\Debug\netcoreapp3.1\Q1.genruntimeconfig.cache

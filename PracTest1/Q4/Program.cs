@@ -12,10 +12,12 @@ namespace Q4
             
             
             
-            for(int i = 0; i <= 20; i++)
+            for(int i = 0; i < 20; i++)
             {
                 Console.Write("{0} ", Math.Pow(2, i));
             }
+
+            
 
 
 
@@ -30,7 +32,7 @@ namespace Q4
 
 
             
-            for(int i = 0; i <= 20; i++)
+            for(int i = 0; i < 20; i++)
             {
                 int temp = 1;
                 
@@ -56,16 +58,35 @@ namespace Q4
 
 
 
-            int timesTwo = 2;
+            int x = 1;
 
-            Console.Write("{0} ", 1);
+            Console.Write("{0} ", x);
 
             for(int i = 2; i <= 20; i++)
             {
-                timesTwo *= 2;
+                x *= 2;
 
-                Console.Write("{0} ", timesTwo);
+                Console.Write("{0} ", x);
             }
+
+
+
+
+
+            Console.WriteLine("\n");
+
+
+
+            for(int i = 1; i <= Math.Pow(2, 19); i *= 2)
+            {
+                Console.Write("{0} ", i);
+            }
+
+
+
+
+
+            Console.WriteLine("\n");
         }
     }
 }
