@@ -1,0 +1,13 @@
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week3Tut\obj\Debug\netcoreapp3.1\Week3Tut.csprojAssemblyReference.cache
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week3Tut\obj\Debug\netcoreapp3.1\Week3Tut.csproj.CoreCompileInputs.cache
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week3Tut\obj\Debug\netcoreapp3.1\Week3Tut.AssemblyInfoInputs.cache
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week3Tut\obj\Debug\netcoreapp3.1\Week3Tut.AssemblyInfo.cs
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week3Tut\bin\Debug\netcoreapp3.1\Week3Tut.exe
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week3Tut\bin\Debug\netcoreapp3.1\Week3Tut.deps.json
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week3Tut\bin\Debug\netcoreapp3.1\Week3Tut.runtimeconfig.json
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week3Tut\bin\Debug\netcoreapp3.1\Week3Tut.runtimeconfig.dev.json
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week3Tut\bin\Debug\netcoreapp3.1\Week3Tut.dll
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week3Tut\bin\Debug\netcoreapp3.1\Week3Tut.pdb
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week3Tut\obj\Debug\netcoreapp3.1\Week3Tut.dll
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week3Tut\obj\Debug\netcoreapp3.1\Week3Tut.pdb
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\LockdownTuts\Week3Tut\obj\Debug\netcoreapp3.1\Week3Tut.genruntimeconfig.cache
