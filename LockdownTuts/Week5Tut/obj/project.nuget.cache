@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t30OUAyFFJ2d9DyUcqG1oUAzWb1eaG4std+fS22JsEvqhhUQcn5gWmDsCClXKZ8hG4zjrVUbI73ED9EMcvY5Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Derick\\Documents\\GitHub\\WRAV101-Pracs\\LockdownTuts\\Week5Tut\\Week5Tut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Derick\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
