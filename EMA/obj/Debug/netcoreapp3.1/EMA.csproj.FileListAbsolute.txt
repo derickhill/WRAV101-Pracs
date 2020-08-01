@@ -1,0 +1,13 @@
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\EMA\bin\Debug\netcoreapp3.1\EMA.exe
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\EMA\bin\Debug\netcoreapp3.1\EMA.deps.json
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\EMA\bin\Debug\netcoreapp3.1\EMA.runtimeconfig.json
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\EMA\bin\Debug\netcoreapp3.1\EMA.runtimeconfig.dev.json
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\EMA\bin\Debug\netcoreapp3.1\EMA.dll
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\EMA\bin\Debug\netcoreapp3.1\EMA.pdb
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\EMA\obj\Debug\netcoreapp3.1\EMA.csprojAssemblyReference.cache
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\EMA\obj\Debug\netcoreapp3.1\EMA.AssemblyInfoInputs.cache
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\EMA\obj\Debug\netcoreapp3.1\EMA.AssemblyInfo.cs
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\EMA\obj\Debug\netcoreapp3.1\EMA.csproj.CoreCompileInputs.cache
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\EMA\obj\Debug\netcoreapp3.1\EMA.dll
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\EMA\obj\Debug\netcoreapp3.1\EMA.pdb
+C:\Users\Derick\Documents\GitHub\WRAV101-Pracs\EMA\obj\Debug\netcoreapp3.1\EMA.genruntimeconfig.cache
